@@ -9,6 +9,7 @@
   
   ### Output
   ![Output](naivelevelOne_webCrawler/img/output.png)
+  Don't get disheartened by seeing only 30 lines scraped, the real .csv contains <code>1303</code> lines...
  
 ### Prerequisites:
 + BeautifulSoup <code>pip install beautifulsoup4</code>
