@@ -8,6 +8,7 @@
   #### Jupyter Notebook contains documentation on how to make this.<br>
   
   ### Output
+  ![Output](naivelevelOne_webCrawler/img/output.png)
  
 ### Prerequisites:
 + BeautifulSoup <code>pip install beautifulsoup4</code>
